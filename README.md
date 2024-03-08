@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshua-sargusingh
 - 👀 I’m interested in networking
-- 🌱 I’m currently learning socket programming
+- 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on different networking projects.
 - 📫 How to reach me: joshuasa911@gmail.com
 - 😄 Pronouns: he/him
